@@ -1,0 +1,17 @@
+body{
+    background-color:white;
+}
+h1{
+    color: aqua;
+    margin-left: 20px;
+}
+.aeroplane_para{
+    width: 500px;
+    background-color: beige;
+    font-size: larger;
+    border-color: aquamarine;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 20px;
+    padding: 20px;
+}
